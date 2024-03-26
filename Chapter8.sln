@@ -7,15 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecimalToBinary", "DecimalT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryToDecimal", "BinaryToDecimal\BinaryToDecimal.csproj", "{F23DEF57-E49E-46CE-821B-5AC315CA4424}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalTobin", "DecimalTobin\DecimalTobin.csproj", "{471E65A8-7FB5-406B-A578-6DD12869F689}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecimalTobin", "DecimalTobin\DecimalTobin.csproj", "{471E65A8-7FB5-406B-A578-6DD12869F689}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToHexadecimal", "DecimalToHexadecimal\DecimalToHexadecimal.csproj", "{F899ABC8-9668-49B4-AE16-7A85B713E4A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecimalToHexadecimal", "DecimalToHexadecimal\DecimalToHexadecimal.csproj", "{F899ABC8-9668-49B4-AE16-7A85B713E4A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexadcimalToDecimal", "HexadcimalToDecimal\HexadcimalToDecimal.csproj", "{FB82465C-DB7A-49EF-B8AC-46D69145F289}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HexadcimalToDecimal", "HexadcimalToDecimal\HexadcimalToDecimal.csproj", "{FB82465C-DB7A-49EF-B8AC-46D69145F289}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexadecimalToBinary", "HexadecimalToBinary\HexadecimalToBinary.csproj", "{73ECFDFE-1B44-4C00-BDEE-D41C8135892E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HexadecimalToBinary", "HexadecimalToBinary\HexadecimalToBinary.csproj", "{73ECFDFE-1B44-4C00-BDEE-D41C8135892E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryToHexadecimal", "BinaryToHexadecimal\BinaryToHexadecimal.csproj", "{6E04D407-8A5A-4C23-8ED6-45DF19FE5C1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryToHexadecimal", "BinaryToHexadecimal\BinaryToHexadecimal.csproj", "{6E04D407-8A5A-4C23-8ED6-45DF19FE5C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanDigitToArabic", "RomanDigitToArabic\RomanDigitToArabic.csproj", "{7076E3BE-4B84-456F-B05D-D438686E4979}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{6E04D407-8A5A-4C23-8ED6-45DF19FE5C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E04D407-8A5A-4C23-8ED6-45DF19FE5C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E04D407-8A5A-4C23-8ED6-45DF19FE5C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7076E3BE-4B84-456F-B05D-D438686E4979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7076E3BE-4B84-456F-B05D-D438686E4979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7076E3BE-4B84-456F-B05D-D438686E4979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7076E3BE-4B84-456F-B05D-D438686E4979}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
